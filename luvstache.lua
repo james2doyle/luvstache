@@ -1,5 +1,5 @@
 -- luvstache: Luvit mustache template parsing.
--- Copyright 2014 james2doyke, <james2doyle@gmail.com>
+-- Copyright 2014 james2doyle, <james2doyle@gmail.com>
 -- Copyright 2013 Olivine Labs, LLC <projects@olivinelabs.com>
 -- MIT Licensed.
 
