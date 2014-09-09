@@ -1,0 +1,24 @@
+{
+  "name": "luvstache",
+  "version": "0.0.1",
+  "description": "Straightforward Lua Set library for Luvit",
+  "main": "luvstache.lua",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/james2doyle/luvstache.git"
+  },
+  "keywords": [
+    "mustache",
+    "luvit",
+    "lua",
+    "template"
+  ],
+  "author": "James Doyle (james2doyle)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james2doyle/luvstache/issues"
+  },
+  "homepage": "https://github.com/james2doyle/luvstache"
+}
