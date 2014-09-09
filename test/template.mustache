@@ -1,0 +1,21 @@
+<h1>Today{{! ignore me }}.</h1>
+
+{{#bold}}Hi {{title}}.{{/bold}}
+
+{{#musketeers}}
+* {{.}}
+{{/musketeers}}
+
+Shown.
+{{#person}}
+Never shown!
+{{/person}}
+
+<ul>
+{{#beatles}}
+  <li>{{name}}</li>
+{{/beatles}}
+</ul>
+
+{{#repos}}<b>{{name}}</b>{{/repos}}
+{{^repos}}No repos :({{/repos}}
