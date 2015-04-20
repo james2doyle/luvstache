@@ -2,6 +2,8 @@
 -- Copyright 2014 james2doyle, <james2doyle@gmail.com>
 -- Copyright 2013 Olivine Labs, LLC <projects@olivinelabs.com>
 -- MIT Licensed.
+exports.name = "develephant/luvstache"
+exports.version = "1.0"
 
 local string = require('string')
 local string_gmatch = require('string').gmatch
